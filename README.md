@@ -1,2 +1,2 @@
 # color-generator
-- using the basics of HTML,CSS,JS
+- A simple web project using HTML-CSS and JavaScript that generates random colors on every click!!!
